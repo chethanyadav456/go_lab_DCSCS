@@ -56,4 +56,11 @@ Go is widely used for :-
 - SoundCloud
 - Capital One
 
+-> Installing and Setting up Go Lang
+
+1) Install Go Lang Installer
+2) Run the Installer
+3) Follow installation wizard
+4) Verify Installation
+
 */
