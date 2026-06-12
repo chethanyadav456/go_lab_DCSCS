@@ -11,6 +11,8 @@ import ("fmt")
 
 func main() {
 	fmt.Println("Hello, Go!");
+	var a float64 = 5.5
+	fmt.Println("Value of a:", a)
 }
 
 /*
