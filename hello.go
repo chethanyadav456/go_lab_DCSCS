@@ -44,4 +44,16 @@ Go is widely used for :-
 - CLI tools
 - Real-Time Applications
 
+-> Companies Using Go Lang
+
+- Netflix
+- Twitch
+- Uber
+- Paypal
+- Google
+- American Express
+- DropBox
+- SoundCloud
+- Capital One
+
 */
